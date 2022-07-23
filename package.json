@@ -1,0 +1,37 @@
+{
+  "name": "react-native-animated-progress-chz",
+  "version": "1.0.2",
+  "description": "Animated progressBar for react-native with custom modules",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chzappsinc/"
+  },
+  "keywords": [
+    "react",
+    "react-native",
+    "native",
+    "progress",
+    "slider",
+    "bar",
+    "progressBar",
+    "loading",
+    "animated",
+    "ios",
+    "android",
+    "mobile",
+    "component"
+  ],
+  "author": "[Jasim TK](support@chzapps.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chzappsinc/react-native-animated-progress-bar-chz/issues"
+  },
+  "homepage": "https://github.com/chzappsinc/react-native-animated-progress-bar-chz#readme",
+  "devDependencies": {
+    "metro-react-native-babel-preset": "^0.58.0"
+  }
+}
